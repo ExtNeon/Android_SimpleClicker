@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">StdCounter</string>
+    <string name="app_name">ПРИЛОЖЕНИЕ ПРИЛОЖЕНИЙ</string>
+    <string name="inc">Инкрементировать</string>
 </resources>
